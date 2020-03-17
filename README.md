@@ -1,2 +1,2 @@
 # Convolutional--Neural-Networks
-CNN tells the difference between a cat and a dog
+This github repository contains the code to my CNN (coded in Python) that predicts whether the image is a cat or a dog.
